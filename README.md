@@ -1,5 +1,8 @@
 # vrindaStoreReport
 
+![image](https://github.com/user-attachments/assets/d88cae27-4387-400e-b456-0bfb480e3076)
+
+
 This project leverages Power BI to analyze Vrinda Store Report. It includes the creation of interactive dashboard:
 Vrinda Store Report Dashboard: Provides insights of total orders, amount, categories, top channels, track monthly orders and its sum amounts
 
